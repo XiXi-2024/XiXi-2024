@@ -1,17 +1,17 @@
 # Welcome to My GitHub! 👋
 
-## About Me 🚀
+## About Me ❤️
 
 I'm a software engineer passionate about solving complex technical challenges, specializing in distributed systems and database internals. Currently exploring the depths of:
-- Storage engine architectures 💾
-- Consensus algorithms 🔄
-- Scalable system design 📈
+- Storage engine architectures
+- Consensus algorithms
+- Scalable system design
 
-## Contributing Guidelines ⭐
+## Contributing Guidelines
 
 I welcome contributions to my projects! Here's how you can help make them even better:
 
-### Reporting Issues 🐛
+### Reporting Issues
 
 Before submitting a new issue, please:
 - 🔍 Check existing issues to avoid duplicates
@@ -22,13 +22,13 @@ Before submitting a new issue, please:
   - Environment details & version info
   - Relevant logs/screenshots
 
-### Pull Requests 🌟
+### Pull Requests
 
 To ensure smooth collaboration:
-- 💡 Start with an issue discussion
-- 🔗 Link your PR to the related issue
-- ✨ Follow project coding standards
-- ✅ Add tests and documentation
-- 🎯 Keep changes focused and atomic
+- Start with an issue discussion
+- Link your PR to the related issue
+- Follow project coding standards
+- Add tests and documentation
+- Keep changes focused and atomic
 
-I deeply value your contributions and commit to providing thoughtful, timely feedback on all submissions. Let's build something amazing together! 🚀
+I deeply value your contributions and commit to providing thoughtful, timely feedback on all submissions. Let's build something amazing together! 😄

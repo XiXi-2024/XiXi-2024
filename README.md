@@ -7,15 +7,15 @@ I'm a software engineer passionate about solving complex technical challenges, s
 - Consensus algorithms
 - Scalable system design
 
-## Contributing Guidelines
+## Contributing Guidelines 😊
 
 I welcome contributions to my projects! Here's how you can help make them even better:
 
 ### Reporting Issues
 
 Before submitting a new issue, please:
-- 🔍 Check existing issues to avoid duplicates
-- 📝 Include in your report:
+- Check existing issues to avoid duplicates
+- Include in your report:
   - Detailed problem description
   - Clear reproduction steps
   - Expected vs actual behavior

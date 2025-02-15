@@ -1,16 +1,34 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**XiXi-2024/XiXi-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a software engineer passionate about solving complex technical challenges, specializing in distributed systems and database internals. Currently exploring the depths of:
+- Storage engine architectures 💾
+- Consensus algorithms 🔄
+- Scalable system design 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributing Guidelines ⭐
+
+I welcome contributions to my projects! Here's how you can help make them even better:
+
+### Reporting Issues 🐛
+
+Before submitting a new issue, please:
+- 🔍 Check existing issues to avoid duplicates
+- 📝 Include in your report:
+  - Detailed problem description
+  - Clear reproduction steps
+  - Expected vs actual behavior
+  - Environment details & version info
+  - Relevant logs/screenshots
+
+### Pull Requests 🌟
+
+To ensure smooth collaboration:
+- 💡 Start with an issue discussion
+- 🔗 Link your PR to the related issue
+- ✨ Follow project coding standards
+- ✅ Add tests and documentation
+- 🎯 Keep changes focused and atomic
+
+I deeply value your contributions and commit to providing thoughtful, timely feedback on all submissions. Let's build something amazing together! 🚀

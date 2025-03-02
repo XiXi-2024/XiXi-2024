@@ -2,10 +2,7 @@
 
 ## About Me ❤️
 
-I'm a software engineer passionate about solving complex technical challenges, specializing in distributed systems and database internals. Currently exploring the depths of:
-- Storage engine architectures
-- Consensus algorithms
-- Scalable system design
+I'm a software engineer passionate about solving complex technical challenge.
 
 ## Contributing Guidelines 😊
 
